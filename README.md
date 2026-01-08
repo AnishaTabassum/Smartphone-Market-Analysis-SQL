@@ -1,4 +1,4 @@
-#**📱 Smartphone SQL Analysis Project**
+**📱 #Smartphone SQL Analysis Project**
 
 This repository contains a collection of SQL queries used to analyze and manipulate a smartphone database.
 The queries demonstrate fundamental to advanced SQL concepts such as filtering, aggregation, grouping, subqueries, sorting, and data modification.
